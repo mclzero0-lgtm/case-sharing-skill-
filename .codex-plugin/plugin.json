@@ -1,0 +1,6 @@
+{
+  "name": "case-sharing-skill",
+  "version": "1.0.0",
+  "description": "A reusable workflow for turning product or brand cases into structured cross-border ecommerce sharing content.",
+  "skills": "./skills/"
+}
